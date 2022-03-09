@@ -91,3 +91,8 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 <a href="https://yarnpkg.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="50" />
 </a>
+
+## Redes sociais 🔗
+<a href="mailto:hpedrobs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="130"/>
+</a>
