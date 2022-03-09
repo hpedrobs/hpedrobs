@@ -99,3 +99,6 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 <a href="https://www.linkedin.com/in/hpedrobs/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="150"/>
 </a>
+<a href="https://www.instagram.com//shbpedro/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" width="150"/>
+</a>
