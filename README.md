@@ -29,6 +29,9 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="50" />
 </a>
+
+<br/>
+
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="50" />
 </a>
@@ -47,6 +50,9 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" />
 </a>
+
+<br/>
+
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" />
 </a>
@@ -57,16 +63,19 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" />
 </a>
 <a href="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />
-</a>
-<a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" />
 </a>
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" width="50" />
 </a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" width="50" />
+</a>
 
 ## Ferramentas e tecnlogias menos conhecidas 🛠
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />
+</a>
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" width="50" />
 </a>
@@ -75,4 +84,10 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 </a>
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" />
+</a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
+</a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="50" />
 </a>
