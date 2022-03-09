@@ -13,7 +13,7 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
   </a>
 </div>
 
-## Ferramentas e tecnlogias mais conhecidas 🛠
+## Ferramentas e tecnologias mais conhecidas 🛠
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50" />
 </a>
@@ -75,7 +75,7 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" width="50" />
 </a>
 
-## Ferramentas e tecnlogias menos conhecidas 🛠
+## Ferramentas e tecnologias menos conhecidas 🛠
 <a href="https://www.figma.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />
 </a>
