@@ -42,6 +42,9 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" width="50" />
 </a>
 <a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" />
+</a>
+<a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" />
 </a>
 <a href="">
