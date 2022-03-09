@@ -32,7 +32,7 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 
 <br/>
 
-<a href="https://vuejs.org/ target="_blank">
+<a href="https://vuejs.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="50" />
 </a>
 <a href="https://www.npmjs.com/" target="_blank">
@@ -53,41 +53,41 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 
 <br/>
 
-<a href="">
+<a href="https://www.php.net/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://laravel.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://trello.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://www.google.com/chrome" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" width="50" />
 </a>
 
 ## Ferramentas e tecnlogias menos conhecidas 🛠
-<a href="">
+<a href="https://www.figma.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://wordpress.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://www.mysql.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://git-scm.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://yarnpkg.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="50" />
 </a>
