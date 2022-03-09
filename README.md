@@ -11,23 +11,23 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 </div>
 
 ## Ferramentas e tecnlogias mais conhecidas 🛠
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" target="_blank" height="50" width="50" />
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" target="_blank" height="50" width="50" />
 </a>
-<a href="https://sass-lang.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" target="_blank" height="50" width="50" />
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="50" />
 </a>
-<a href="https://getbootstrap.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" target="_blank" height="50" width="50" />
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50" width="50" />
 </a>
-<a href="https://www.javascript.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank" height="50" width="50" />
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" />
 </a>
-<a href="https://jquery.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" target="_blank" height="50" width="50" />
+<a href="https://jquery.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" width="50" />
 </a>
 
 <br/>
