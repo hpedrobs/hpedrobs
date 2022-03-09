@@ -96,3 +96,6 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 <a href="mailto:hpedrobs@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="130"/>
 </a>
+<a href="https://www.linkedin.com/in/hpedrobs/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="150"/>
+</a>
