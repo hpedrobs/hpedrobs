@@ -1,6 +1,9 @@
 # Eai, suave?! Satisfação, PH! 👨🏻💻
 Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já desenvolvi diversos tipos de aplicações(web e desktop).
 
+- Hoje trabalho com front-end e back-end 🚀
+- Estudando TypeScript ✨
+
 <div style="display: flex; widht:100%; justify-content: space-between;">
   <a href="">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=hpedrobs&show_icons=true&theme=material-palenight" />
