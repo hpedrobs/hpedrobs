@@ -62,4 +62,13 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" />
 </a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" />
+</a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" />
+</a>
+<a href="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" />
+</a>
 
