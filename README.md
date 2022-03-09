@@ -32,22 +32,22 @@ Sou um desenvolvedor de software, com pouco mais de 2 anos de experiência. Já 
 
 <br/>
 
-<a href="">
+<a href="https://vuejs.org/ target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://www.npmjs.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://typescriptlang.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://nodejs.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://expressjs.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" width="50" />
 </a>
-<a href="">
+<a href="https://www.mongodb.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" />
 </a>
 
